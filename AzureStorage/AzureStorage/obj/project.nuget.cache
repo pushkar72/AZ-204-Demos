@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrYrHqhoQ82GCy+li+hfvMmBdD8H4V0UQDwaccv1NcriAuv6mHbTnWGzi425qRrM/Yr0rpfwOrwO9cSv1UTc7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pushkar\\Downloads\\hclwebapp\\AzureStorage\\AzureStorage\\AzureStorage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pushkar\\.nuget\\packages\\azure.core\\1.2.2\\azure.core.1.2.2.nupkg.sha512",
+    "C:\\Users\\Pushkar\\.nuget\\packages\\azure.storage.blobs\\12.4.4\\azure.storage.blobs.12.4.4.nupkg.sha512",
+    "C:\\Users\\Pushkar\\.nuget\\packages\\azure.storage.common\\12.4.3\\azure.storage.common.12.4.3.nupkg.sha512",
+    "C:\\Users\\Pushkar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pushkar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Pushkar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pushkar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
