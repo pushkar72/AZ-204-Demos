@@ -1,0 +1,5 @@
+﻿@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+
+<h1>Message : @Configuration.GetSection("SecretMessage").Value</h1>

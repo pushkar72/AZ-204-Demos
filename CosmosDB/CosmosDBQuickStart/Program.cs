@@ -6,8 +6,8 @@ using Azure.Cosmos;
 
 namespace CosmosDBQuickStart {
     class Program {
-        private const string EndpointUrl = "https://<your-account>.documents.azure.com:443/";
-        private const string AuthorizationKey = "<your-account-key>";
+        private const string EndpointUrl = "https://azcosmosdbpj.documents.azure.com:443/";
+        private const string AuthorizationKey = "2jPHjjxEIUfnhnAOZmUmp1rgJfXvqZLsIK1vmN3V2xMRukEcTgmZDomPjYfvDzWXVe0vzsimJ4TUtUZHtC1DMA==";
         private const string DatabaseId = "FamilyDatabase";
         private const string ContainerId = "FamilyContainer";
         static async Task Main (string[] args) {

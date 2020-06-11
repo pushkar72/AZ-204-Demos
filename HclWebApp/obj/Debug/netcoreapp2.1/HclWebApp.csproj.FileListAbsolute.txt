@@ -1,0 +1,4 @@
+C:\Users\Pushkar\Downloads\hclwebapp\HclWebApp\obj\Debug\netcoreapp2.1\HclWebApp.csprojAssemblyReference.cache
+C:\Users\Pushkar\Downloads\hclwebapp\HclWebApp\obj\Debug\netcoreapp2.1\HclWebApp.AssemblyInfoInputs.cache
+C:\Users\Pushkar\Downloads\hclwebapp\HclWebApp\obj\Debug\netcoreapp2.1\HclWebApp.AssemblyInfo.cs
+C:\Users\Pushkar\Downloads\hclwebapp\HclWebApp\obj\Debug\netcoreapp2.1\HclWebApp.csproj.CoreCompileInputs.cache
