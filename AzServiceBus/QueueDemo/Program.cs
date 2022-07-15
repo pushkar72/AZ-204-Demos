@@ -6,6 +6,8 @@
     using Microsoft.Azure.ServiceBus;
 
     class Program {
+        //https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azuremessagingservicebus-samples/
+        //https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted#technology-selection-considerations
         // Connection String for the namespace can be obtained from the Azure portal under the 
         // 'Shared Access policies' section.
         const string ServiceBusConnectionString = "<your_connection_string>";
